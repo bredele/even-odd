@@ -1,0 +1,29 @@
+{
+  "name": "even-odd",
+  "version": "1.0.0",
+  "description": "Extract even and odd numbered characters into separate strings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/even-odd.git"
+  },
+  "keywords": [
+    "even",
+    "odd",
+    "extract",
+    "chracters",
+    "bytes"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/even-odd/issues"
+  },
+  "homepage": "https://github.com/bredele/even-odd#readme"
+}
