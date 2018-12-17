@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "node": ">= 8.9.4"
+  },
   "scripts": {
     "test": "tape test/*.js"
   },
@@ -25,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/bredele/even-odd/issues"
   },
-  "homepage": "https://github.com/bredele/even-odd#readme"
+  "homepage": "https://github.com/bredele/even-odd#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
 }
