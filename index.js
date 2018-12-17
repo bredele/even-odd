@@ -1,4 +1,12 @@
 
+/**
+ * Ectract even and off characters.
+ *
+ * @param {String} str
+ * @return {Array}
+ * @api public
+ */
+
 module.exports = str => {
   let even = ''
   let odd = ''
